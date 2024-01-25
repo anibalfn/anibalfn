@@ -6,8 +6,7 @@ Atualmente, estou trabalhando na construção deste portfólio, mas não tardar�
 <br>
 <br>
 <br>
-
-![Work in progress, sorry for the incovenience](https://lh3.googleusercontent.com/pw/ABLVV87EZEBxSSAiIj8bs9pAjAJ8kHm_VgrcVRMX8j04JbehzThWuSZpJG6T8DVvIdhPpiAi0yzxU1JfWwj16lybtEiJG06My_LYi4qSjbqG5fq5nC7ByM67a20YA8CyFapiNdSYL7PXNIi8mYNN8Te7CmDsvPlX1lj9bjNq3BvYjXdXwh-ggXasmBVi7t1Vn7mWK3wpF0bFoDD6e29n-qNzxUD8ovYrFV1JkjPGVh0LXZDc59UOkvXCQO1uPbXKtLKxCsGIkyLDTuNG_VUisE8VDu-Dx_MHCxjHPwz1H87fbnc4ZP74jhk5fwHX6PxfNg_ZYgEvGm94nCX-1_S7giQRZia74B5pumMeSTBP5e105shc16bFybEj8zC1wMt774y4CF5ZdkeDjho6RqHGNr6WorH_bj4bee06R4jTLzcHi4OT5HXfbS_q-0LAFkYWj82PM6sQh8h2qUCP3t6AnZG_Q3dv9kNZ8dNm5yGe9K5LpSsz90fL2Bcpkk4wxbNvqfVlp3Lgsymg_hACi4KCQx9SI_ImYWWXRyjytgczyW37gyYe8Ped6g1OqSG5Navydw4wyrsY7bmXW2RQk-pe6PalJf3mfaaCzj-Gf6HV96xndKmluRkPBP34YHPZQzADgiay_Vo_gpqVOpuPGdRKxLj7n-CNHvow0RULyXOHDLUil5UJIk7CzSsoccPyDmP4eO006HCO4NnRY8jpqESR1992sZKAPm8q9QlWABennuQS9TI2AfFccCYQqb3rEx3ZZbJGu0L3LnUOnCYsEzB4V76lWEiys-YQzMbff08bsxvFVnIrMmBefokysca361TGd0lHcqpwiWhrGQHYghJrnFs27RbQ7V2Tep3JsUYvkWVjuH74MPcnwWpgzABiEaMH2mvFS5VATUU=w750-h271-s-no-gm?authuser=0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anibalfn)](https://github.com/anibalfn/github-readme-stats)
 
 <!--
 **anibalfn/anibalfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
