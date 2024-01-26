@@ -1,12 +1,14 @@
-# Olá, meu nome é Aníbal Figueiredo!
+# Hi, my name is Aníbal Figueiredo!
 
-Atualmente, estou trabalhando na construção deste portfólio, mas não tardará até novidades aparecerem.
+I am working in this portfolio, more projects coming soon!
 <br>
+![Work in progress, sorry for the inconvenience](https://anibalfn.github.io/Images/clipart1268157.png)
+<br/>
+<br/>
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anibalfn&show_icons=true&theme=transparent&layout=donut&langs_count=5)
 <br>
-<br>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anibalfn&show_icons=true&theme=transparent&layout=compact)
 <!--
 **anibalfn/anibalfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
